@@ -1,0 +1,97 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Inter, sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  margin: 0 auto;
+}
+
+main {
+  max-width: 80%;
+  width: 100%;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 1.1rem;
+}
+
+/* HEADER  */
+
+header {
+  background-color: #f55a5a;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 5.5rem;
+}
+
+.logo {
+  width: 45px;
+  margin-right: 10px;
+}
+
+.header-text {
+  font-size: 1.5rem;
+  letter-spacing: -1.5px;
+}
+
+/* FIRST ENTRY */
+
+.entry {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 5rem;
+  margin-bottom: 36px;
+}
+
+.marker {
+  width: 25px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 2px;
+}
+
+.location-img {
+  width: 225px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-right: 1.5rem;
+}
+
+.marker-and-place {
+  display: flex;
+  margin-bottom: 12px;
+}
+
+.location-link {
+  margin-left: 2rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+h4 {
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+
+a {
+  color: #918e9b;
+}
+
+.location-info {
+  margin-top: 1.6rem;
+}
