@@ -5,7 +5,7 @@ _A simple static React project showcasing travel destinations with reusable comp
 **📸 Preview**
 --------------
 
-(Coming soon)
+[Click here to watch!](https://youtu.be/Bp0dNUaD7sw)
 
 **🚀 Features**
 ---------------
